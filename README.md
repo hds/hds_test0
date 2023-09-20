@@ -1,2 +1,3 @@
 # hds_test0
-Test crate
+
+This is a crate to test publishing automation.
